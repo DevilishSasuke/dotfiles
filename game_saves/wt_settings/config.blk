@@ -1,0 +1,159 @@
+language:t="Russian"
+distr:t="tmhixdjlm"
+firstRun:b=no
+firstYup:b=no
+firstDownload:b=no
+firstDownloaded:b=no
+firstGameShow:b=no
+firstGameRun:b=no
+lastTimeSetWin64:i=1676924335
+doShowDriversOutdated:b=yes
+forcedLauncher:i=0
+renderer3:t="auto"
+rdseed:i=41
+use_eac:b=yes
+use_release_candidate:b=no
+releaseChannel:t=""
+graphicsQuality:t="custom"
+
+graphics{
+  rendinstDistMul:r=3.5
+  landquality:i=4
+  shadowQuality:t="ultralow"
+  backgroundScale:r=1
+  lenseFlares:b=yes
+  texquality:t="high"
+  fxDensityMul:r=1
+  grassRadiusMul:r=1.8
+  ssaa:r=1
+  displacementQuality:i=4
+  dirtSubDiv:i=2
+  contactShadowsQuality:i=2
+  lastClipSize:i=8192
+  tireTracksQuality:i=3
+  enableSuspensionAnimation:b=no
+  panoramaResolution:i=4096
+  waterQuality:t="ultrahigh"
+  advancedShore:b=yes
+  cloudsQuality:i=0
+  anisotropy:i=16
+  physicsQuality:i=5
+  compatibilityShadowQuality:t="low"
+  riGpuObjects:b=yes
+  mirrorQuality:i=10
+  clipmapScale:r=1.5
+  fxTarget:t="high"
+  waterEffectsQuality:t="low"
+  skyQuality:i=1
+  giQuality:t="high"
+  enableBVH:b=no
+  bvhMode:t="off"
+  RTAOQuality:t="off"
+  RTRQuality:t="off"
+  RTRRes:t="half"
+  bvhRiGenRange:i=3000
+  RTRTranslucent:t="off"
+  motionBlurStrength:i=0
+  RTRWaterRes:t="half"
+  enableRTSM:t="off"
+  RTRWater:b=no
+  motionBlurCancelCamera:b=no
+  RTSMQuality:t="low"
+}
+
+render{
+  staticShadowsOnEffects:b=no
+  softFx:b=yes
+  rendinstGlobalShadows:b=yes
+  grass:b=no
+  ssaoQuality:i=2
+  shadows:b=yes
+  ssrQuality:i=2
+  haze:b=no
+  selfReflection:b=yes
+}
+
+sound{
+  speakerMode:t="auto"
+  fmod_sound_enable:b=yes
+}
+
+video{
+  alpha_to_coverage:b=no
+  resolution:t="1920 x 1080"
+  vsync:b=no
+  adaptive_vsync:b=no
+  driver:t="dx12"
+  windowed:b=no
+  mode:t="fullscreenwindowed"
+  instancing:t="auto"
+  compatibilityMode:b=no
+  postfx_antialiasing:t="high_fxaa"
+  fonts:t="small"
+  latency:i=1
+  vrStreamerMode:b=no
+  vreye:t="left"
+  dlssQuality:i=-1
+  perfMetrics:i=1
+  temporalResolutionScale:r=1
+  dlssSharpness:i=0
+  xessQuality:i=-1
+  vrr:b=yes
+  antialiasing_mode:t="taa"
+  antialiasing_sharpening:i=0
+  antialiasing_upscaling:t="native"
+  monitor:t="auto"
+}
+
+download{
+  DHT:b=yes
+  upl_speed_rate:i=1000
+  peer_exchange:b=yes
+  UTP2:b=no
+  seeding_on:b=no
+  dnl_limit:b=yes
+  upl_limit:b=no
+  dnl_speed_rate:i=10000
+}
+
+oculus{
+  edgeScale:r=0.95
+  fovMul:r=1.2
+  k2:r=0.666
+  k1:r=0.5
+  magnetometerEnabled:b=no
+  predictionEnabled:b=no
+  maxSeparation:r=0.0005
+  zeroParallaxDist:r=3
+}
+
+yunetwork{
+  webStatusPort:i=55444
+  enableWebStatus:b=no
+  webStatusLocalhostOnly:b=yes
+  curCircuit:t="production"
+}
+
+debug{
+  screenshotAsJpeg:b=yes
+  512mboughttobeenoughforanybody:b=yes
+  enableNvHighlights:t="auto"
+  netLogerr:b=yes
+  screenshotHiRes:b=no
+}
+
+launcher{
+  bg_tray:b=no
+  startup_with_windows:b=no
+  hide_to_tray_option:b=yes
+  bg_update:b=no
+}
+
+directx{
+  maxaa:i=0
+  enableHdr:b=no
+}
+
+gameplay{
+  enableVR:b=no
+}

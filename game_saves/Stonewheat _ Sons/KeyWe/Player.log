@@ -1,0 +1,374 @@
+Mono path[0] = 'E:/KeyWe/KeyWe_Data/Managed'
+Mono config path = 'E:/KeyWe/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.17f1 (667c8606c536)
+[Subsystems] Discovering subsystems at path E:/KeyWe/KeyWe_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Vendor:   
+    VRAM:     5966 MB
+    Driver:   32.0.15.7628
+Begin MonoManager ReloadAssembly
+- Completed reload, in  6.318 seconds
+D3D11 device created for Microsoft Media Foundation video decoding.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 516.287000 ms
+DontDestroyOnLoad only works for root GameObjects or components on root GameObjects. 
+(Filename:  Line: 589)
+
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/PhotonCryptoPlugin
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/PhotonCryptoPlugin.dll
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/PhotonCryptoPlugin
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/libPhotonCryptoPlugin
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/libPhotonCryptoPlugin.dll
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/libPhotonCryptoPlugin
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/PhotonSocketPlugin
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/PhotonSocketPlugin.dll
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/PhotonSocketPlugin
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/libPhotonSocketPlugin
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/libPhotonSocketPlugin.dll
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/libPhotonSocketPlugin
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/PhotonEncryptorPlugin
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/PhotonEncryptorPlugin.dll
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/PhotonEncryptorPlugin
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/libPhotonEncryptorPlugin
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/libPhotonEncryptorPlugin.dll
+Fallback handler could not load library E:/KeyWe/KeyWe_Data/Mono/libPhotonEncryptorPlugin
+[SystemHandler] Getting system before its been initialized - DataKeeper 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[SystemHandler] Getting system before its been initialized - DataKeeper 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[SystemHandler] Getting system before its been initialized - DataKeeper 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[KEYWE][OnlineControllerOffline] OnStateEnter 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[SteamAchivemenets::SyncAchievements] SteamUserStats.GetAchievement failed for Achievement CompleteOnboarding 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[SteamAchivemenets::SyncAchievements] SteamUserStats.GetAchievement failed for Achievement CompleteTheFirstWeek 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[SteamAchivemenets::SyncAchievements] SteamUserStats.GetAchievement failed for Achievement GetABonusReward 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[SteamAchivemenets::SyncAchievements] SteamUserStats.GetAchievement failed for Achievement CompleteSummer 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[SystemHandler] Cannot find desired system - UIController 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Unloading the last loaded scene Assets/Maps/LoadScreen.unity(build index: 1), is not supported. Please use SceneManager.LoadScene()/EditorSceneManager.OpenScene() to switch to another scene. 
+(Filename:  Line: 264)
+
+The referenced script on this Behaviour (Game Object 'TextMeshPro Text') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'TextMeshPro Text') is missing! 
+(Filename:  Line: 334)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Uploading Crash Report
+ArrayTypeMismatchException: Attempted to access an element as a type incompatible with the array.
+  at (wrapper stelemref) System.Object.virt_stelemref_sealed_class(intptr,object)
+  at KiwiEffects.Start () [0x0000c] in <5df0ff28ccfb460c939a5753b5b9d096>:0 
+ 
+(Filename: <5df0ff28ccfb460c939a5753b5b9d096> Line: 0)
+
+ArrayTypeMismatchException: Attempted to access an element as a type incompatible with the array.
+  at (wrapper stelemref) System.Object.virt_stelemref_sealed_class(intptr,object)
+  at KiwiEffects.Start () [0x0000c] in <5df0ff28ccfb460c939a5753b5b9d096>:0 
+ 
+(Filename: <5df0ff28ccfb460c939a5753b5b9d096> Line: 0)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 41d4 -> priority: 1 
+  Thread -> id: 2628 -> priority: 1 
+  Thread -> id: 17e8 -> priority: 1 
+  Thread -> id: 438c -> priority: 1 
+  Thread -> id: 2fec -> priority: 1 
+  Thread -> id: 6d0 -> priority: 1 
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 95627.
+Total: 83.054800 ms (FindLiveObjects: 3.162700 ms CreateObjectMapping: 2.432700 ms MarkObjects: 77.170700 ms  DeleteObjects: 0.288600 ms)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'TextMeshPro Text') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'TextMeshPro Text') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'TextMeshPro Text') is missing! 
+(Filename:  Line: 334)
+
+The referenced script on this Behaviour (Game Object 'TextMeshPro Text') is missing! 
+(Filename:  Line: 334)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [NotoSansJP-Regular SDF]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [NotoSansKR-Regular SDF]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [NotoSansSC-Regular SDF]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [NotoSansTC-Regular SDF]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AudioPlayer:GetClip] No clip found which matches value: None 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+The character used for Underline is not available in font asset [OpenSans-Regular]. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Uploading Crash Report
+Trying to access SystemHandler before it's initialized. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
