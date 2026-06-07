@@ -32,7 +32,7 @@
 
 | App                      | Download link                                                                         | Description             | VPN required |
 |:------------------------ |:------------------------------------------------------------------------------------- |:-----------------------:|:------------:|
-| **WinRAR**               | [local installer](./installers/winrar/winrar-x64-701en.exe)                                      | archiver                | ❌            |
+| **WinRAR**               | [local installer](./installers/winrar/winrar-x64-701en.exe)                           | archiver                | ❌            |
 | **AMD Chipset Software** | [Download](https://www.amd.com/en/support/download/drivers.html)                      | amd motherboard drivers | ✅            |
 | **NVIDIA Drivers**       | [Download](https://www.nvidia.com/en-us/software/nvidia-app/)                         | nvidia gpu drivers      | ❌            |
 | **Canon LBP6020 Driver** | [local installer](./installers/LBP6020_6020B_R151_V110_W64_RU.exe)                    | printer driver          | ❌            |
@@ -43,12 +43,12 @@
 
 ## 🎯 Specific soft
 
-| App                              | Download link                                                                       | Description                      | VPN required |
-|:-------------------------------- |:----------------------------------------------------------------------------------- |:--------------------------------:|:------------:|
+| App                              | Download link                                                                                  | Description                      | VPN required |
+|:-------------------------------- |:---------------------------------------------------------------------------------------------- |:--------------------------------:|:------------:|
 | **GOM Player Plus v2.3.71.5335** | [local installer](./installers/gom_player/GOM_Player_Plus_2.3.71.5335_portbl_by_Dodakaedr.exe) | comfortable video player version | ❌            |
-| **Notepad++**                    | [Download](https://notepad-plus-plus.org/downloads/)                                | text file editor                 | ❌            |
-| **MarkText**                     | [GitHub Releases](https://github.com/marktext/marktext/releases/)                   | nice markdown editor             | ❌            |
-| **Termius**                      | [Download](https://termius.com/download/windows)                                    | ssh terminal                     | ❌            |
+| **Notepad++**                    | [Download](https://notepad-plus-plus.org/downloads/)                                           | text file editor                 | ❌            |
+| **MarkText**                     | [GitHub Releases](https://github.com/marktext/marktext/releases/)                              | nice markdown editor             | ❌            |
+| **Termius**                      | [Download](https://termius.com/download/windows)                                               | ssh terminal                     | ❌            |
 
 ---
 
@@ -95,11 +95,12 @@
 
 ## 🎮 Games
 
-| Game name                    | Платформа        | Description | VPN required |
-|:---------------------------- |:---------------- |:-----------:|:------------:|
-| **American Truck Simulator** | Steam            | ATS         | ❌            |
-| **Alice: Madness Returns**   | Steam / EA       | -           | ❌            |
-| **GTA: San Andreas**         | Rockstar / Steam | legend      | ❌            |
+| Game name                    | Платформа        | Description             | VPN required |
+|:---------------------------- |:---------------- |:-----------------------:|:------------:|
+| **American Truck Simulator** | Steam            | ATS                     | ❌            |
+| **Alice: Madness Returns**   | Steam / EA       | -                       | ❌            |
+| **GTA: San Andreas**         | Rockstar / Steam | legend                  | ❌            |
+| **Total Immersion Racing**   | --               | race sim from childhood |              |
 
 ## 🧲 Manget urls
 
