@@ -1,0 +1,61 @@
+=== Моя полная сборка GTA San Andreas ===
+Дата выгрузки: 2026-09-02 01:37
+
+--- ASI Плагины (Корневая папка) ---
+- _noDEP.asi
+- CLEO.asi
+- CrashInfo.SA.asi
+- FirstPersonModFix.asi
+- Hooks.asi
+- modloader.asi
+
+--- Modloader (Модели, текстуры, глобальные моды) ---
+- .profiles
+- _ESSENTIALS
+- AimSensibility
+- Atmosphere Interface Pack (скачать, много весит)
+- CJ Official Remaster (скачать, много весит)
+- CopVehCoronas
+- ECG - VehicleTXD
+- Fair Police
+- Faster Clothes Change
+- FramerateVigilante
+- GInputSA
+- Improved 2DFX
+- Improved Default Armoury 
+- Improved Streaming
+- ImVehFt
+- Lighthouse & Pyramid Fix
+- Loadscreens 2K Definitive
+- LS Lit Church
+- Missing Lampposts Fix
+- MixSets
+- MSKL (руссификатор) (скачать, много весит)
+- Open Limit Adjuster
+- Original HQ Palms (скачать)
+- Particle TXD
+- Peds Extender
+- Project2DFX
+- Proper Fixes (скачать, очень много весит)
+- Rain effect (Small)
+- Real Traffic Fix
+- reLIT - San Andreas
+- Reload Mod
+- Remastered Vanilla Graffiti HQ (скачать)
+- Restored Unused Peds
+- Roadsign Font HD
+- SA Cutscene Characters for gameplay (скачать)
+- SA PS2 Vehicles (скачать)
+- SkyGfx
+- SkyGrad
+- Sprint Everywhere
+- Wind Project
+
+--- CLEO Скрипты ---
+- CLEO+.cleo
+- Faster Clothes Change (Junior_Djjr).cs
+- FileSystemOperations.cleo
+- IniFiles.cleo
+- IntOperations.cleo
+- SA.RestoredIcons.cs
+
