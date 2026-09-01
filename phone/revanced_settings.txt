@@ -1,0 +1,11 @@
+"hide_fullscreen_ads": false,
+"language": "en",
+"settings_search_entries": "export\nexpirt\n,",
+"splash_screen_animation_style": "fps_60_black_and_white",
+"swipe_brightness": true,
+"swipe_brightness_value": 0.41000012,
+"swipe_volume": true,
+"video_quality_default_mobile": 720,
+"video_quality_default_wifi": 1080,
+"sb_local_time_saved_milliseconds": 14298020,
+"sb_local_time_saved_number_segments": 268
