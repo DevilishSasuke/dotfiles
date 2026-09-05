@@ -1,0 +1,18 @@
+mods
+FarFromHome
+
+resourcepacks
+Beds-for-1.19.zip
+Better_Dogs_V0.35.zip
+colourfulcontainers-1.20-1.19.zip
+Crops-3D_MC1.19_v1.2.0.zip
+Faithless1.19.zip
+RainbowXPbarandping1.18.zip
+soft-weather-1.0-1.19.zip
+SpawnEgg3D-23w51b.zip
+Toys-for-1.19.zip
+xalisEnhancedVanillav1.11.1.zip
+aesexl+
+
+shaders
+Sildurs Enhanced Default v1.071
